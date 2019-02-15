@@ -1,0 +1,1 @@
+web: python random_desire.py
